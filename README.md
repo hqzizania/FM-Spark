@@ -8,7 +8,8 @@ The code base structure of this project is from [spark-libFM](https://github.com
 
  If you encounter bugs, feel free to submit an issue or pull request.
  Also you can mail to:
- * qian.huang@intel.com
- * peng.meng@intel.com
- * vincent.xie@intel.com
- * hao.cheng@intel.com
+ * [hqzizania](https://github.com/hqzizania)
+ * [mpjlu](https://github.com/mpjlu)
+ * [VinceShie](https://github.com/VinceShieh)
+ * [chenghao-intel](https://github.com/chenghao-intel)
+ 
